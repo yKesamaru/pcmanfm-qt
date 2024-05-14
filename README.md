@@ -1,5 +1,5 @@
 # 再起動しても複数タブを復元可能なファイルマネージャー`pcmanfm-qt`
-![](assets/eye-catch.webp)
+![](https://raw.githubusercontent.com/yKesamaru/pcmanfm-qt/master/assets/eye-catch.webp)
 ## はじめに
 PCを再起動させたとき、電源を落としたときと同じ環境を再現したいものです。
 ずっと昔のGNOME環境ではそのような仕組みがありましたが、`wayland`に移行する影響からそれらの仕組みは廃止されました。
