@@ -57,7 +57,7 @@ TabPaths=/home/***/\x30d3\x30c7\x30aa, /home/***/\x30c0\x30a6\x30f3\x30ed\x30fc\
 
 GNOME環境でQtアプリケーションを使用する場合には、`qt5ct`（Qt5 Configuration Utility）もインストールして設定を行うとよいです。これにより、スタイルがGNOME環境に馴染み、使いやすくなります。
 
-![Qt5 Configuration Utility](assets/2024-05-14-13-14-21.png)
+![Qt5 Configuration Utility](https://raw.githubusercontent.com/yKesamaru/pcmanfm-qt/master/assets/2024-05-14-13-14-21.png)
 
 > (Packageから引用)
 > **Qt5 Configuration Utility**
